@@ -1,4 +1,4 @@
-# Polaroid-PhotoMAX
+# Polaroid-PhotoMAX V2.02
 --------------------------
 ## Download
 
