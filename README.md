@@ -6,7 +6,9 @@
 
 Image Maker Software
 
-Quickstart guide
+Quickstart
+guide
+
 ![Cover Image](https://github.com/coolcraftnet18/Polaroid-PhotoMAX/blob/master/photomax.jpg?raw=true)
 ![Cover Image](https://github.com/coolcraftnet18/Polaroid-PhotoMAX/blob/master/scannedcover.jpg?raw=true)
 
